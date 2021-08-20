@@ -1,0 +1,14 @@
+{
+  "name": "siminn-showcase",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/sigga-vala/siminn-showcase.git",
+  "author": "siggavala <sigga-vala@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
